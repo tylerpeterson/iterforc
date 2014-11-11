@@ -1,0 +1,19 @@
+{
+  "name": "iterforc",
+  "version": "0.0.0",
+  "description": "Forecast project burndown based on a lot of hogwash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylerpeterson/iterforc.git"
+  },
+  "author": "Tyler Peterson <petersontb@familysearch.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylerpeterson/iterforc/issues"
+  },
+  "homepage": "https://github.com/tylerpeterson/iterforc"
+}
