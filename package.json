@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tylerpeterson/iterforc",
   "dependencies": {
-    "debug": "~2.1.0"
+    "debug": "~2.1.0",
+    "moment": "~2.8.3"
   }
 }
