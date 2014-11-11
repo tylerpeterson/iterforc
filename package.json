@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tylerpeterson/iterforc/issues"
   },
-  "homepage": "https://github.com/tylerpeterson/iterforc"
+  "homepage": "https://github.com/tylerpeterson/iterforc",
+  "dependencies": {
+    "debug": "~2.1.0"
+  }
 }

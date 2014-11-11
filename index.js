@@ -1,8 +1,9 @@
 var project = require('./project');
 var teams = project.teams;
 var startDate = new Date(project.schedule.startDate);
+var debug = require('debug')('iterforc');
 
-console.log(startDate);
-console.log(teams[0].name);
+debug(startDate);
+debug(teams[0].name);
 
 
